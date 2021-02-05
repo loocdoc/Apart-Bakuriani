@@ -1,0 +1,24 @@
+<svg id="elevator_2_" data-name="elevator (2)" xmlns="http://www.w3.org/2000/svg" width="85" height="85" viewBox="0 0 85 85">
+  <g id="Circle_Grid" data-name="Circle Grid">
+    <circle id="Ellipse_27" data-name="Ellipse 27" cx="42.5" cy="42.5" r="42.5" fill="#63db5e"/>
+  </g>
+  <g id="icon" transform="translate(17.951 15.405)">
+    <path id="Path_179" data-name="Path 179" d="M73.437,23H30a3.2,3.2,0,0,0-3.2,3.2V77.923H76.633V26.2a3.2,3.2,0,0,0-3.2-3.2Z" transform="translate(-26.8 -23)" fill="#eeefee"/>
+    <g id="Group_266" data-name="Group 266" transform="translate(38.809 38.096)">
+      <path id="Path_180" data-name="Path 180" d="M84.741,79.877h8.646v1.217H84.741Z" transform="translate(-84.741 -79.877)" fill="#dbd8dd"/>
+      <path id="Path_181" data-name="Path 181" d="M84.741,84.344h8.646v1.217H84.741Z" transform="translate(-84.741 -81.352)" fill="#dbd8dd"/>
+      <path id="Path_182" data-name="Path 182" d="M84.741,88.811h8.646v1.217H84.741Z" transform="translate(-84.741 -82.827)" fill="#dbd8dd"/>
+    </g>
+    <path id="Path_183" data-name="Path 183" d="M34.773,44.086h30.95v40.8H34.773Z" transform="translate(-29.433 -29.963)" fill="#828a9e"/>
+    <path id="Path_184" data-name="Path 184" d="M57.876,48.25h13.1V86.189h-13.1Z" transform="translate(-37.061 -31.338)" fill="#eeefee"/>
+    <path id="Path_185" data-name="Path 185" d="M38.314,48.25h13.1V86.189h-13.1Z" transform="translate(-30.602 -31.338)" fill="#eeefee"/>
+    <path id="Path_186" data-name="Path 186" d="M57.022,48.25h1.144V86.189H57.022Z" transform="translate(-36.779 -31.338)" fill="#dbd8dd"/>
+    <rect id="Rectangle_146" data-name="Rectangle 146" width="16.381" height="6.007" rx="1.708" transform="translate(12.624 4.501)" fill="#dbd8dd"/>
+    <rect id="Rectangle_147" data-name="Rectangle 147" width="1.573" height="3.075" rx="0.779" transform="translate(14.504 5.967)" fill="#575b6d"/>
+    <rect id="Rectangle_148" data-name="Rectangle 148" width="1.573" height="3.075" rx="0.779" transform="translate(18.187 5.967)" fill="#ef5261"/>
+    <rect id="Rectangle_149" data-name="Rectangle 149" width="1.573" height="3.075" rx="0.779" transform="translate(21.87 5.967)" fill="#ef5261"/>
+    <rect id="Rectangle_150" data-name="Rectangle 150" width="1.573" height="3.075" rx="0.779" transform="translate(25.553 5.967)" fill="#ef5261"/>
+    <rect id="Rectangle_151" data-name="Rectangle 151" width="8.646" height="6.622" rx="1.559" transform="translate(38.809 28.969)" fill="#dbd8dd"/>
+    <circle id="Ellipse_28" data-name="Ellipse 28" cx="1.277" cy="1.277" r="1.277" transform="translate(41.856 31.004)" fill="#575b6d"/>
+  </g>
+</svg>
