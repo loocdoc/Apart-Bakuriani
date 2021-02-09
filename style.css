@@ -626,8 +626,8 @@ br {
 
 .flats {
     display: flex;
-    width: 70% !important;
-    justify-content: space-between;
+    /* width: 70% !important;
+    justify-content: space-between; */
     margin-top: 50px;
     position: relative;
     /* overflow: hidden; */
