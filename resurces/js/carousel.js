@@ -6,20 +6,20 @@ const carousel = document.getElementById("carousel"),
     prev = document.getElementById("prev");
 
 next.addEventListener("click", e => {
-    carousel.scrollBy(width + gap, 0);
+    carousel.scrollBy(306 + gap, 0);
     if (carousel.scrollWidth !== 0) {
         prev.style.display = "flex";
     }
-    if (content.scrollWidth - width - gap <= carousel.scrollLeft + width) {
+    if (content.scrollWidth - 306 - gap <= carousel.scrollLeft + 306) {
         next.style.display = "none";
     }
 });
 prev.addEventListener("click", e => {
-    carousel.scrollBy(-(width + gap), 0);
-    if (carousel.scrollLeft - width - gap <= 0) {
+    carousel.scrollBy(-(306 + gap), 0);
+    if (carousel.scrollLeft - 306 - gap <= 0) {
         prev.style.display = "none";
     }
-    if (!content.scrollWidth - width - gap <= carousel.scrollLeft + width) {
+    if (!content.scrollWidth - 306 - gap <= carousel.scrollLeft + 306) {
         next.style.display = "flex";
     }
 });
